@@ -7,7 +7,7 @@
 ## Uses distinct namespace. Jekyll settings should go at the root level.
 githubiverse:
     ## Metadata
-    title: "MendelMax 1.5 for LM8UU Bearings fulfilled"
+    title: "MendelMax 1.5 for LM8UU Bearings"
     author: Terawatt Industries
     license: GPLv3 for SCAD.  Creative Commons 3.0 ShareAlike + Non-Commercial for ANT script (build.xml + build profiles).
     tags: []
