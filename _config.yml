@@ -10,7 +10,7 @@ githubiverse:
     title: "MendelMax 1.5 for LM8UU Bearings"
     author: Terawatt Industries
     license: GPLv3 for SCAD.  Creative Commons 3.0 ShareAlike + Non-Commercial for ANT script (build.xml + build profiles).
-    tags: []
+    tags: [3D printer,mendelmax,mendelmax 1.5,mendelmax 1.0,mendelmax 1.6,lm8uu,kuehling,terawatt industries]
 
     ## Github project parameters.
     github:
