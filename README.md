@@ -18,5 +18,5 @@ We're working on an assembly guide.  Here are some related resources:
 
 ##Open Source Ancestors
 1. [http://www.thingiverse.com/thing:20355](MendelMax 1.5 for LM10UU)
-1. [http://www.thingiverse.com/thing:18384] (X-Ends)
+1. [http://www.thingiverse.com/thing:18384](X-Ends)
 1. [http://www.thingiverse.com/thing:9864](Z-Top Rod Constraints)
