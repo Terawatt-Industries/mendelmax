@@ -20,3 +20,6 @@ We're working on an assembly guide.  Here are some related resources:
 1. [MendelMax 1.5 for LM10UU](http://www.thingiverse.com/thing:20355)
 1. [X-Ends](http://www.thingiverse.com/thing:18384)
 1. [Z-Top Rod Constraints](http://www.thingiverse.com/thing:9864)
+
+##Credits
+Special thanks to Kludgineer, the designer of the MendelMax; Josef Prusa for sharing the Prusa Mendel design; Jonas Kuehling for his excellent parts designs; Trinity Labs for the assembly guide; Scribble for the z-top constraints; and all open source developers.
