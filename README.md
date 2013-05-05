@@ -11,7 +11,7 @@ See the Terawatt Industries site (http://www.terawattindustries.com) for vitamin
 
 ##Assembly Instructions
 1. [http://mendelmax.terawattindustries.com/assembly/index.html](http://mendelmax.terawattindustries.com/assembly/index.html)
-1. [http://http://mendelmax.terawattindustries.com/extruder/index.html](http://http://mendelmax.terawattindustries.com/extruder/index.html)
+1. [http://mendelmax.terawattindustries.com/extruder/index.html](http://mendelmax.terawattindustries.com/extruder/index.html)
 1. [http://mendelmax.terawattindustries.com/wiring/index.html](http://mendelmax.terawattindustries.com/wiring/index.html)
 
 ##Open Source Ancestors
