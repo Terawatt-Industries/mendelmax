@@ -1,7 +1,9 @@
-##MendelMax 1.5 for LM8UU Bearings fulfilled by Terawatt Industries
-This is the open-source MendelMax 1.5 kit fulfilled by Terawatt Industries.  Modifications include 8mm z-axis parts and Kuehling's x-ends, x-carriage, and more!
+##MendelMax 1.6 fulfilled by Terawatt Industries
+This repository is the open-source MendelMax 1.6 kit fulfilled by Terawatt Industries.  The MendelMax 1.6 was formerly known as the "MendelMax 1.5 for LM8UU" and has evolved with several modified parts.  Modifications include 8mm z-axis parts and Kuehling's x-ends, x-carriage, adjustable y-rods, 00str00der options, extrusion clamps, and more!
 
-This repository contains the matching printed (plastic) parts for the MendelMax 1.5 printer for use with LM8UU bearings on all axes.  Many design files are STLs,
+NOTE:  development has ceased on this design.
+
+This repository contains the matching printed (plastic) parts for the MandelMax 1.6 and MendelMax 1.5 printer for use with LM8UU bearings on all axes.  Many design files are STLs,
 since the MendelMax 1.5 was originally designed in Alibre CAD - proprietary software.  However several of the Terawatt Industries modifications are available in SCAD and published on our Githubiverse site elsewhere - for example RAMPS mounts, extrusion clips, and z-top constraints.
 
 NOTE:  SCADs for the x-ends are available at our Githubiverse page.
